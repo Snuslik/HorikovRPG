@@ -1,0 +1,7 @@
+C:\Users\Jokar\Desktop\Приложения\games\games\bin\Debug\games.exe.config
+C:\Users\Jokar\Desktop\Приложения\games\games\bin\Debug\games.exe
+C:\Users\Jokar\Desktop\Приложения\games\games\bin\Debug\games.pdb
+C:\Users\Jokar\Desktop\Приложения\games\games\obj\Debug\games.csproj.AssemblyReference.cache
+C:\Users\Jokar\Desktop\Приложения\games\games\obj\Debug\games.csproj.CoreCompileInputs.cache
+C:\Users\Jokar\Desktop\Приложения\games\games\obj\Debug\games.exe
+C:\Users\Jokar\Desktop\Приложения\games\games\obj\Debug\games.pdb
